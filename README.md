@@ -5,6 +5,8 @@ A React todo list PureComponent
   * React.js
   * Typescript
 
+https://cecilia-wsk.github.io/react-todo-mvc/
+
 ## Build Setup
 
 ``` bash
